@@ -2,7 +2,7 @@
 
    <section id="hero" class="d-flex align-items-center">
       <div class="container">
-        <h1>Welcome to <br>Sahayog Medicine Donation</h1>
+        <h1>Welcome to <br>Sahayog Medicine </h1>
         <a href="login.jsp" class="btn-get-started scrollto">Let's Donate</a>
       </div>
     </section><!-- End Hero -->
