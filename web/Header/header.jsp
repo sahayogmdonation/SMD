@@ -42,7 +42,7 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="Header/assets/css/style.css" rel="stylesheet" type="text/css" />
     <link href="assets/css/style2.css" rel="stylesheet" type="text/css" />
     </head>
     <body>
@@ -76,12 +76,9 @@
             <li><a class="nav-link scrollto active" href="#hero">Home</a></li>  <li></li>
             <li><a class="nav-link scrollto" href="#Medicines">Medicines</a></li>  <li></li>
             <li><a class="nav-link scrollto" href="#ngo">NGO</a></li>  <li></li>
-            <li><a class="nav-link scrollto" href="#about">About</a></li>  <li></li>
-       
-
-          <!-- Example single danger button -->
-          
+            <li><a class="nav-link scrollto" href="#about">About</a></li>  <li></li>   
             <li><a class="nav-link scrollto" href="#contact">Contact  </a></li> <li></li>
+            <li><a class="nav-link scrollto" href="#contact">Donation History  </a></li> <li></li>
 
           </ul>
 

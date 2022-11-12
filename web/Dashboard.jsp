@@ -1,8 +1,8 @@
 <%@ include file = "Header/header2.jsp" %>
 
-   <section id="hero" class="d-flex align-items-center">
+  <section id="hero"  class="d-flex align-items-center">
       <div class="container">
-        <h1>Welcome to <br>Sahayog Medicine Donation</h1>
+          <h1>Welcome to <br>Sahayog Medicine Donation</h1><br>
         <a href="login.jsp" class="btn-get-started scrollto">Let's Donate</a>
       </div>
     </section><!-- End Hero -->
@@ -734,7 +734,7 @@
       </div>
     </section> End About Section -->
 
-      <!-- ======= Counts Section ======= 
+       <!--======= Counts Section =======--> 
     <section id="counts" class="counts">
       <div class="container">
 
@@ -743,24 +743,24 @@
           <div class="col-lg-3 col-md-6">
             <div class="count-box">
               <i class="fas fa-user-md"></i>
-              <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Doctors</p>
+              <span data-purecounter-start="0" data-purecounter-end="5" data-purecounter-duration="1" class="purecounter"></span>
+              <p>NGO's</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-md-0">
             <div class="count-box">
-              <i class="far fa-hospital"></i>
-              <span data-purecounter-start="0" data-purecounter-end="18" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Departments</p>
+              <i class="fas fa-flask"></i>
+              <span data-purecounter-start="0" data-purecounter-end="1000" data-purecounter-duration="1" class="purecounter"></span>
+              <p>Medicine's Donates</p>
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 mt-5 mt-lg-0">
             <div class="count-box">
-              <i class="fas fa-flask"></i>
-              <span data-purecounter-start="0" data-purecounter-end="12" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Research Labs</p>
+              <i class="fas fa-hospital"></i>
+              <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="1" class="purecounter"></span>
+              <p>transitioned from Sahayog support</p>
             </div>
           </div>
 
@@ -768,14 +768,15 @@
             <div class="count-box">
               <i class="fas fa-award"></i>
               <span data-purecounter-start="0" data-purecounter-end="150" data-purecounter-duration="1" class="purecounter"></span>
-              <p>Awards</p>
+              <p>User's Donate Medicine's</p>
             </div>
           </div>
 
         </div>
 
       </div>
-    </section> End Counts Section -->
+    </section>
+       <!--End Counts Section--> 
 
       <!-- ======= Services Section ======= 
     <section id="services" class="services">
@@ -1033,58 +1034,57 @@
       </div>
     </section> End Doctors Section -->
 
-      <!--     ======= Frequently Asked Questions Section ======= 
+           <!--======= Frequently Asked Questions Section =======--> 
     <section id="faq" class="faq section-bg">
       <div class="container">
 
         <div class="section-title">
           <h2>Frequently Asked Questions</h2>
-          <p>Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.</p>
-        </div>
+         </div>
 
         <div class="faq-list">
           <ul>
             <li data-aos="fade-up">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Non consectetur a erat nam at lectus urna duis? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" class="collapse" data-bs-target="#faq-list-1">Can I donate unused medicines? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-1" class="collapse show" data-bs-parent=".faq-list">
                 <p>
-                  Feugiat pretium nibh ipsum consequat. Tempus iaculis urna id volutpat lacus laoreet non curabitur gravida. Venenatis lectus magna fringilla urna porttitor rhoncus dolor purus non.
+                  Yes, you can donate us your unused medicines but please avoid medicines which are near to expiry.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="100">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">Feugiat scelerisque varius morbi enim nunc? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-2" class="collapsed">There is some cough syrup left in the bottle which I used for my child, can I donate the same? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-2" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Dolor sit amet consectetur adipiscing elit pellentesque habitant morbi. Id interdum velit laoreet id donec ultrices. Fringilla phasellus faucibus scelerisque eleifend donec pretium. Est pellentesque elit ullamcorper dignissim. Mauris ultrices eros in cursus turpis massa tincidunt dui.
+                  No, We do not accept unsealed bottles of medicines. Please avoid the same.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="200">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Dolor sit amet consectetur adipiscing elit? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-3" class="collapsed">Can you please send someone at my home to pick-up the medicines?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-3" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Eleifend mi in nulla posuere sollicitudin aliquam ultrices sagittis orci. Faucibus pulvinar elementum integer enim. Sem nulla pharetra diam sit amet nisl suscipit. Rutrum tellus pellentesque eu tincidunt. Lectus urna duis convallis convallis tellus. Urna molestie at elementum eu facilisis sed odio morbi quis
+                  Frankly, it is not possible for us to depute someone.  You are requested to please visit our centre or alternately send the same through courier.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="300">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Tempus quam pellentesque nec nam aliquam sem et tortor consequat? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-4" class="collapsed">Can I organise a donation camp in my office or housing society?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-4" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Molestie a iaculis at erat pellentesque adipiscing commodo. Dignissim suspendisse in est ante in. Nunc vel risus commodo viverra maecenas accumsan. Sit amet nisl suscipit adipiscing bibendum est. Purus gravida quis blandit turpis cursus in.
+                Sure,  we encourage you to please organise a donation camp in your office, school, college, residential society and with all like minded peoples.
                 </p>
               </div>
             </li>
 
             <li data-aos="fade-up" data-aos-delay="400">
-              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Tortor vitae purus faucibus ornare. Varius vel pharetra vel turpis nunc eget lorem dolor? <i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
+              <i class="bx bx-help-circle icon-help"></i> <a data-bs-toggle="collapse" data-bs-target="#faq-list-5" class="collapsed">Can you please name the medicines or any preferred brands?<i class="bx bx-chevron-down icon-show"></i><i class="bx bx-chevron-up icon-close"></i></a>
               <div id="faq-list-5" class="collapse" data-bs-parent=".faq-list">
                 <p>
-                  Laoreet sit amet cursus sit amet dictum sit amet justo. Mauris vitae ultricies leo integer malesuada nunc vel. Tincidunt eget nullam non nisi est sit amet. Turpis nunc eget lorem dolor sed. Ut venenatis tellus in metus vulputate eu scelerisque.
+                 We do not prefer any particular brand of medicines. There are hundreds of good medicines available in the market. To be more specific, please refer to following list of essential medicines :-Analgesics, antipyretics, non-steroidal anti-inflammatory medicinesAntiallergics and medicines used in anaphylaxisAntidotes and other substances used in PoisoningsAnticonvulsants/ antiepilepticsAnti-infective medicinesAntimigraine medicinesAntineoplastic medicinesMedicines affecting the bloodCardiovascular medicinesDermatological medicines (topical)Disinfectants and antisepticsDiureticsGastrointestinal medicinesHormones, other endocrine medicinesImmunologicalsMuscle relaxants (peripherally-acting) and  cholinesterase inhibitorsOphthalmological preparationsMedicines acting on the respiratory tractSolutions correcting water, electrolyte and acid-base disturbancesVitamins and mineralsEar, nose and throat medicines.
                 </p>
               </div>
             </li>
@@ -1093,7 +1093,8 @@
         </div>
 
       </div>
-    </section> End Frequently Asked Questions Section -->
+    </section> 
+           <!--End Frequently Asked Questions Section--> 
 
       <!-- ======= Testimonials Section ======= 
     <section id="testimonials" class="testimonials">
@@ -1344,11 +1345,6 @@
       </section><!-- End Contact Section -->
 
     </main><!-- End #main -->
-  <script type="text/javascript">
-      var status = document.getElementById("status").value;
-      if(status === "failed"){
-          swal("Sorry","Wrong username and password","error");
-      }
-  </script>
+  
 <%@ include file = "Footer/footer.jsp" %>
 

@@ -43,8 +43,9 @@
     <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet" type="text/css" />
 
     <!-- Template Main CSS File -->
-    <link href="assets/css/style.css" rel="stylesheet" type="text/css" />
-    <link href="assets/css/style2.css" rel="stylesheet" type="text/css" />
+    <link href="Header/assets/css/style.css" rel="stylesheet" type="text/css" />
+    <link href="Header/assets/css/style2.css" rel="stylesheet" type="text/css" />
+   
     </head>
     <body>
          <!-- ======= Top Bar ======= -->
@@ -66,26 +67,23 @@
   <!-- ======= Header ======= -->
     <header id="header" class="fixed-top">
       <div class="container d-flex align-items-center">
-        <a href="index.xhtml"><img src="Admin/assets/img/logo.png" alt="" style="height:50px;width:auto" />
+       <a href="index.jsp"><img src="Admin/assets/img/logo.png" alt="" style="height:50px;width:auto" />
         </a>
-        <div class="w300"></div>
+          <div style="width:300px"></div>
         <!-- Uncomment below if you prefer to use an image logo -->
         <!-- <a href="index.html" class="logo me-auto"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
 
         <nav id="navbar" class="navbar order-last order-lg-0">
           <ul>
-            <li><a class="nav-link scrollto active" href="#hero">Home</a></li>
-            <li><a class="nav-link scrollto" href="#Medicines">Medicines</a></li>
-            <li><a class="nav-link scrollto" href="#ngo">NGO</a></li>
-            <li><a class="nav-link scrollto" href="#about">About</a></li>
-       
-
-          <!-- Example single danger button -->
+            <li><a class="nav-link scrollto active" href="Dashboard.jsp">Home</a></li>  <li></li>
+            <li><a class="nav-link scrollto" href="#Medicines">Medicines</a></li>  <li></li>
+            <li><a class="nav-link scrollto" href="#ngo">NGO</a></li>  <li></li>
+            <li><a class="nav-link scrollto" href="Donatehistory.jsp">Donate History</a></li>  <li></li>   
+            <li><a class="nav-link scrollto" href="#contact">Contact  </a></li> <li></li>
           
-            <li><a class="nav-link scrollto" href="#contact">Contact  </a></li>
-
           </ul>
 
+       
           <ul>
             <li class="nav-item dropdown pe-3">
 
@@ -97,7 +95,7 @@
 
               <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
                 <li class="dropdown-header">
-                  <h6>Adn</h6>
+                  <h6>Admin</h6>
                   <span>Web Designer</span>
                 </li>
                 <li>
@@ -139,9 +137,9 @@
         </nav><!-- .navbar -->
 
 
-        
+        <a href="/Logout.java" class="appointment-btn scrollto"><span class="d-none d-md-inline">Donate</span></a>
         <a href="/Logout.java" class="appointment-btn scrollto"><span class="d-none d-md-inline">Logout</span></a>
-        
+       
 
 
       </div>

@@ -46,6 +46,8 @@ h6 {
   transition: all 0.3s;
 }
 
+
+
 @media (max-width: 1199px) {
   #main {
     padding: 20px;
@@ -652,6 +654,7 @@ h6 {
     margin-left: 300px;
   }
 }
+
 
 @media (max-width: 1199px) {
   .toggle-sidebar .sidebar {
