@@ -1,6 +1,6 @@
 <%@ include file = "Header/header.jsp" %>
         
-<div calss="row ht-100"></div>
+
 
 <main id="main" class="main">
                  

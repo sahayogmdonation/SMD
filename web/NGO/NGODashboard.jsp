@@ -143,16 +143,16 @@
                 </div>
 
                 <div class="card-body">
-                  <h5 class="card-title">Donated Medicine <span>| All</span></h5>
+                  <h5 class="card-title">Recent Sales <span>| Today</span></h5>
 
                   <table class="table table-borderless datatable">
                     <thead>
                       <tr>
-                        <th scope="col">Med id</th>
-                        <th scope="col">Med Name</th>
-                        <th scope="col">User Name</th>
-                        <th scope="col">Med Qty</th>
-                        <th scope="col">Donate Date</th>
+                        <th scope="col">#</th>
+                        <th scope="col">Customer</th>
+                        <th scope="col">Product</th>
+                        <th scope="col">Price</th>
+                        <th scope="col">Status</th>
                       </tr>
                     </thead>
                     <tbody>

@@ -15,8 +15,8 @@
     <meta content="" name="keywords" />
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon" type="text/css" />
-    <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" type="text/css" />
+     <link href="assets/img/logo.png" style="width:16px;height:16px" rel="icon" type="text/css" />
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" type="text/css" />
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i"
@@ -78,9 +78,9 @@
             <li><a class="nav-link scrollto active" href="Dashboard.jsp">Home</a></li>  <li></li>
             <li><a class="nav-link scrollto" href="#Medicines">Medicines</a></li>  <li></li>
             <li><a class="nav-link scrollto" href="#ngo">NGO</a></li>  <li></li>
-            <li><a class="nav-link scrollto" href="Donatehistory.jsp">Donate History</a></li>  <li></li>   
             <li><a class="nav-link scrollto" href="#contact">Contact  </a></li> <li></li>
-          
+            <li><a class="nav-link scrollto" href="Donatehistory.jsp">Donate History</a></li>  <li></li>   
+
           </ul>
 
        

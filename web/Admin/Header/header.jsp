@@ -1,8 +1,4 @@
-<%-- 
-    Document   : AdminDashboard
-    Created on : 03-Nov-2022, 5:25:49 pm
-    Author     : Rahul
---%>
+
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
@@ -11,12 +7,13 @@
         <meta charset="utf-8"/>
   <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
 
-  <title>Dashboard - NiceAdmin Bootstrap Template</title>
+  <title>Admin Dashboard</title>
   <meta content="" name="description"/>
   <meta content="" name="keywords"/>
 
   <!-- Favicons -->
-  <link href="assets/img/favicon.png" rel="icon" type="text/css" />
+  <link href="assets/img/logo.png" style="width:16px;height:16px" rel="icon" type="text/css" />
+
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" type="text/css" />
 
   <!-- Google Fonts -->
@@ -41,7 +38,7 @@
 
     <div class="d-flex align-items-center justify-content-between">
       <a href="index.html" class="logo d-flex align-items-center">
-        <img src="assets/img/logo.png" style="width:200px; height:200px;" alt=""/>
+               <img src="assets/img/logo.png" style="height:auto;width:70px" alt=""/>
         <span class="d-none d-lg-block"></span>
       </a>
       <i class="bi bi-list toggle-sidebar-btn"></i>

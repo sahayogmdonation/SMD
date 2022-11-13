@@ -14,7 +14,7 @@
     <meta content="" name="keywords" />
 
     <!-- Favicons -->
-    <link href="assets/img/favicon.png" rel="icon" type="text/css" />
+    <link href="Header/assets/img/logo.png" style="width:16px;height:16px" rel="icon" type="text/css" />
     <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" type="text/css" />
 
     <!-- Google Fonts -->
